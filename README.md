@@ -1,10 +1,7 @@
 
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=12903903)
 CS 2401 – Fall 2023
 # Project 6 – Boop
 
-![image](https://github.com/OU-CS2401/Boop/assets/53953603/4ea1683f-10a9-45ec-85d2-495763298be6)
- 
 The final project for CS 2401 is a single large project to be submitted in three stages counting as three projects. For this project we will be implementing the game Boop, with the final product being a program that can play an "intelligent" game of Boop against a human opponent.  
 
 This game must be derived from the files I have given you (a game class written by the author of a textbook we used to use for this course). The files are game.h and game.cc. I have also included a file called colors.h which was created by a former student who has given us permission to use it. It allows you to adjust the colors of the terminal screen during a text-based console or ssh session. I have altered the play function in the game class slightly by adding three different sections of code that you will need for each part of this project. **Make sure that you are using the correct version of the play function for each part or the program will not work correctly.**  
